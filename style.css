@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#todoArea{
+    overflow-y:auto ;
+
+}
+
+/* .Btn{
+    float: right;
+    display: flex;
+    background-color: blue;
+    justify-content: flex-end;
+} */
